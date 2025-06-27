@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_extensionName__",
+  "description": "__MSG_extensionDescription__",
+  "version": "1.0",
+  "default_locale": "de",
+  "host_permissions": [
+    "https://shop.rewe.de/checkout/aftersale"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://shop.rewe.de/checkout/aftersale"],
+      "js": ["src/content-script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}

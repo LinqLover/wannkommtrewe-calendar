@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Wannkommtrewe Kalendar Eintrag"
+  },
+  "extensionDescription": {
+    "message": "Fügt nach der REWE-Bestellung automatisch einen Sendungsverfolgungslink zu Kalendereinladungen hinzu."
+  },
+  "trackingLabel": {
+    "message": "Sendungsverfolgung:"
+  }
+}
