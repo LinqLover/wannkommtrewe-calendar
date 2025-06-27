@@ -25,3 +25,7 @@ Aftersale page:
 Calendar item:
 
 ![Calendar item](./assets/calendaritem.png)
+
+---
+
+Disclaimer: This extension is not affiliated with REWE.

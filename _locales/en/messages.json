@@ -3,7 +3,7 @@
     "message": "Wannkommtrewe to Calendar Adder"
   },
   "extensionDescription": {
-    "message": "Automatically adds your REWE-tracking URL into calendar invites after completing an order."
+    "message": "Automatically adds your REWE-tracking URL into calendar invites after completing an order.\r\nGitHub (source code and bugs): https://github.com/LinqLover/chrome-wannkommtrewe-calendar\r\nDisclaimer: This extension is not affiliated with REWE."
   },
   "trackingLabel": {
     "message": "Tracking:"
