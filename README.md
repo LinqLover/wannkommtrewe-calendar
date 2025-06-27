@@ -18,13 +18,16 @@ Supported languages:
 
 ## Screenshots
 
-Aftersale page:
+![Promo](./assets/promo.png)
 
-![Aftersale page](./assets/aftersale.png)
+## Installation
 
-Calendar item:
-
-![Calendar item](./assets/calendaritem.png)
+1. **Download** the latest `chrome-wannkommtrewe-calendar.zip` from the [Releases page](https://github.com/LinqLover/chrome-wannkommtrewe-calendar/releases).
+2. **Unzip** it to a folder on your computer.  
+3. **Open** Chrome and navigate to `chrome://extensions`.  
+4. **Enable** **Developer mode** (toggle in the top right).  
+5. Click **Load unpacked**, then **select** the folder you just unzipped.  
+6. **Reload** the REWE checkout page (`https://shop.rewe.de/checkout/aftersale`) to activate the extension.
 
 ---
 
