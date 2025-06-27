@@ -3,7 +3,7 @@
     "message": "Wannkommtrewe Kalendar Eintrag"
   },
   "extensionDescription": {
-    "message": "Fügt nach der REWE-Bestellung automatisch einen Sendungsverfolgungslink zu Kalendereinladungen hinzu.\r\nGitHub (Quellcode und Probleme): https://github.com/LinqLover/chrome-wannkommtrewe-calendar\r\nHaftungsausschluss: Diese Erweiterung stammt nicht von REWE."
+    "message": "Fügt nach der REWE-Bestellung automatisch einen Sendungsverfolgungslink zu Kalendereinladungen hinzu."
   },
   "trackingLabel": {
     "message": "Sendungsverfolgung:"
