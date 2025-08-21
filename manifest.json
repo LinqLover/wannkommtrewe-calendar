@@ -9,6 +9,12 @@
     "128": "icons/icon128.png",
     "1024": "icons/icon1024.png"
   },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{c3c68944-ba5a-4ff3-9a28-e28b9344dba2}",
+      "strict_min_version": "136.0"
+    }
+  },
   "default_locale": "de",
   "host_permissions": [
     "https://shop.rewe.de/checkout/aftersale",
