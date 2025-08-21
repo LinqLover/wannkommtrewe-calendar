@@ -11,11 +11,15 @@
   },
   "default_locale": "de",
   "host_permissions": [
-    "https://shop.rewe.de/checkout/aftersale"
+    "https://shop.rewe.de/checkout/aftersale",
+    "https://www.rewe.de/shop/checkout/aftersale"
   ],
   "content_scripts": [
     {
-      "matches": ["https://shop.rewe.de/checkout/aftersale"],
+      "matches": [
+        "https://shop.rewe.de/checkout/aftersale",
+        "https://www.rewe.de/shop/checkout/aftersale"
+      ],
       "js": ["src/content-script.js"],
       "run_at": "document_idle"
     }
