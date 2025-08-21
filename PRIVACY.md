@@ -1,6 +1,6 @@
 # Privacy Policy
 
-> Last updated: June 27, 2025
+> Last updated: August 22, 2025
 
 ## Introduction
 
@@ -49,7 +49,7 @@ This privacy policy describes how the **Wannkommtrewe to Calendar Adder** browse
 ## Contact & Source
 
 - This Extension is open-source. You can review the code or submit issues and pull requests at:
-https://github.com/LinqLover/chrome-wannkommtrewe-calendar
+https://github.com/LinqLover/wannkommtrewe-calendar
 
 ---
 
