@@ -1,6 +1,7 @@
 # Browser Extension: Wannkommtrewe to Calendar Adder
 
 [![Install in Chrome Web Store](https://img.shields.io/badge/chrome_web_store-install_now-blue)](https://chromewebstore.google.com/detail/wannkommtrewe-kalendar-ei/bbomfkejcpcodlcaehllpoanjhkbfppm)
+[![Install Firefox Add-on](https://img.shields.io/badge/firefox_addon-install_now-blue)](https://addons.mozilla.org/en-US/firefox/addon/wannkommtrewe-calendar/)
 
 Automatically adds your REWE-tracking URL into calendar invites after completing an order.
 
