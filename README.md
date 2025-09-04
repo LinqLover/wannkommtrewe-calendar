@@ -27,7 +27,11 @@ Supported languages:
 
 ### Chrome Web Store
 
-Check out the extension [here](https://chrome.google.com/webstore/devconsole/a176ee0f-d390-4533-83ba-cd80b44978d9/bbomfkejcpcodlcaehllpoanjhkbfppm/edit) and press install. 
+Check out the extension [here](https://chromewebstore.google.com/detail/wannkommtrewe-kalendar-ei/bbomfkejcpcodlcaehllpoanjhkbfppm) and press install.
+
+### Firefox Add-ons
+
+Check out the extension [here](https://addons.mozilla.org/en-US/firefox/addon/wannkommtrewe-calendar/) and press install.
 
 ### Manual Installation
 
